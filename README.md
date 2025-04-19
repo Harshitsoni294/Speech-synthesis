@@ -1,12 +1,5 @@
 ---
 title: "Text-to-Speech (TTS) 🗣️ — Tacotron2 + HiFi-GAN"
-
-colorFrom: purple
-colorTo: indigo
-sdk: gradio
-sdk_version: "4.14.0"
-app_file: app.py
-pinned: true
 ---
 
 # 🗣️ Text-to-Speech with Tacotron2 + HiFi-GAN
