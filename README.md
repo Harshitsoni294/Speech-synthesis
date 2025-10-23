@@ -4,8 +4,7 @@
 
 ### Transform text into your own voice with AI-powered speech synthesis
 
-[Demo](https://huggingface.co/spaces/Harshitsoni294/Text-to-speech) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture)
-
+[Demo](https://huggingface.co/spaces/Harshitsoni294/Text-to-speech)
 ---
 
 </div>
